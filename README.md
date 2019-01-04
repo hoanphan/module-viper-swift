@@ -61,7 +61,7 @@ Would you like decide what will be the next feature? now, you can do it [here](h
 ## Contributed
 This is an open source project, so feel free to contribute. How?
 - Open an [issue](https://github.com/Juanpe/Swift-VIPER-Module/issues/new).
-- Send feedback via [email](mailto://juanpecatalan.com).
+- Send feedback via [email](mailto://phanvanhoan54cntt@gmail.com).
 - Propose your own fixes, suggestions and open a pull request with the changes.
 
 ## Author
